@@ -1,0 +1,10 @@
+body*{padding:0px;margin:0px;}
+header{display:grid;grid-template-rows:1;grid-template-columns:30% 50%;margin-left:6em; }
+.i{background-color:black;color:white;height:1em;padding-bottom:0.5em;padding-top:0.5em;}
+.francis{width:62em;}
+hr{display: block;}
+section{display:grid;grid-template-rows:1;grid-template-columns:40% 20% 40%;margin-left:5em;}
+#car{padding-top:2em;}
+.cont{width:100%;}
+.fra {width:62em;}
+.deo {width:62em;}
